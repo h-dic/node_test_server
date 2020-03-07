@@ -1,0 +1,34 @@
+{
+    "req1": {
+        "drug": "aspirin",
+        "herb": "pissenlit",
+        "answers": [
+            {
+                "effet": "bad mood",
+                "intensite": "basse"
+            },
+            {
+                "effet": "feeling lucky",
+                "intensite": "haute"
+            }
+        ]
+    },
+    "req2": {
+        "drug": "aspirin",
+        "herb": "gingembre",
+        "answers": [
+            {
+                "effet": "happy time",
+                "intensite": "moyenne"
+            },
+            {
+                "effet": "ding dong",
+                "intensite": "inconnue"
+            },
+            {
+                "effet": "dropamine",
+                "intensite": "haute"
+            }
+        ]
+    }
+}

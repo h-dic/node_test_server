@@ -1,0 +1,22 @@
+{
+  "name": "node_test_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h-dic/node_test_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h-dic/node_test_server/issues"
+  },
+  "homepage": "https://github.com/h-dic/node_test_server#readme",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
